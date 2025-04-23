@@ -1,0 +1,6 @@
+void disposeCamera() {
+  if (controller != null) {
+    controller?.dispose();
+    controller = null;
+  }
+}

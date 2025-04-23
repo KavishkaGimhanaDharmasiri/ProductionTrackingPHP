@@ -1,0 +1,11 @@
+sql error(1265): Data truncated for colum 'unit_type' at row 10
+
+|_. id |_. name |_. stock |_. unit_price |_. unit_type |
+| 33 | CEMENT | 0.00 | 1730.00 | kg |
+| 34 | SEA SAND  | 0.00 | 25000.00 | kg |
+| 35 | QUARRY DUST | 0.00 | 11000.00 | kg |
+| 36 | 1/2 METAL | 0.00 | 9500.00 | kg |
+| 37 | 3/4  METAL  | 0.00 | 9500.00 | kg |
+| 38 | WASH SAND | 0.00 | 18000.00 | kg |
+| 39 | COLOUR BLACK PIGMENT | 0.00 | 1180.00 | kg |
+| 40 | COLOUR RED PIGMENT | 0.00 | 768.00 | kg |
